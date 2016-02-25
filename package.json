@@ -1,0 +1,28 @@
+{
+  "name": "gulp-workflow-poc",
+  "version": "0.0.1",
+  "description": "gulp workflow poc",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshacker/gulp-workflow-poc.git"
+  },
+  "keywords": [
+    "gulp",
+    "workflow",
+    "testing"
+  ],
+  "author": "EcmaScript Hacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eshacker/gulp-workflow-poc/issues"
+  },
+  "homepage": "https://github.com/eshacker/gulp-workflow-poc#readme"
+}
